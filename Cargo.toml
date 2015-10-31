@@ -1,0 +1,13 @@
+[package]
+
+name = "test"
+version = "0.0.1"
+authors = [ "YamchaLeung <yamchaleung@gmail.com>" ]
+
+[[bin]]
+
+name = "test"
+
+[dependencies]
+rand = "*"
+regex="*"
